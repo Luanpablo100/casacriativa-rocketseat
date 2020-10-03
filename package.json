@@ -1,7 +1,7 @@
 {
   "name": "casa-criativa",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create ideas",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -20,8 +20,10 @@
   "homepage": "https://github.com/Luanpablo100/casacriativa#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.3",
-    "nunjucks": "^3.2.1",
-    "sqlite3": "^4.2.0"
+    "nunjucks": "^3.2.2",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
