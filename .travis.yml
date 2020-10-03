@@ -1,3 +1,3 @@
 language: node_js
-nvm:
- - v12.18.4
+node_js:
+  - 12
