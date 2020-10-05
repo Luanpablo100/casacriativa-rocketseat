@@ -7,6 +7,10 @@
 
 Casa Criativa is a Rocketseat study project, for creating and listing tasks, for training Front-end and Back-end.
 ![](https://live.staticflickr.com/65535/50416256588_5e94935be0_c.jpg)
+
+## Requirements
+Node in version 8 or higher
+
 ## Installation
 
 ```
